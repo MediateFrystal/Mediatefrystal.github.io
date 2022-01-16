@@ -1,5 +1,5 @@
-## Welcome to MediateFrystal.github.io Repository
+## MediateFrystal.github.io Repository
 
-But, How can you find this?
+中文: [zh.html](https://mediatefrystal.github.io/zh.html)
 
-Website Link: [MediateFrystal.github.io](https://mediatefrystal.github.io/).
+English: [en.html](https://mediatefrystal.github.io/en.html)
