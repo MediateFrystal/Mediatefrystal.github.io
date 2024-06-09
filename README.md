@@ -1,5 +1,5 @@
 ## MediateFrystal Repository
 
-中文: [zh.html](https://mediatefrystal.github.io/zh.html)
+[中文](https://mediatefrystal.github.io/zh.html)
 
-English: [en.html](https://mediatefrystal.github.io/en.html)
+[English](https://mediatefrystal.github.io/en.html)
