@@ -2,7 +2,7 @@
 
 > ### 网站链接
 >
-> - 旧 **Github Pages**: <https://mediatefrystal.github.io/mfw>  
+> - 旧 **Github Pages**: <https://mediatefrystal.github.io/mfw/>  
 > 有一点点墙[^1]，最好备梯子。
 >
 > - 新 **Netlify**: <https://crispy-barnacle.netlify.app/>  
@@ -17,8 +17,10 @@
 [^1]: 国内防火长城存在不确定性：有时可以，有时又打不开，所以最终还是以实际为主。
 [^2]: 因为有时可能会忘记更新所以可能进度慢一点！
 
-旧的个人简介页面, will remove soon
+---
 
-[中文](https://mediatefrystal.github.io/zh.html)
-
-[English](https://mediatefrystal.github.io/en.html)
+> 旧的个人简介页面, will remove soon
+>
+> [中文](https://mediatefrystal.github.io/zh.html)
+>
+> [English](https://mediatefrystal.github.io/en.html)
